@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-556.gif" width="100" height="80" /></h3>
 <h1 align="center">Hi 👋, I'm Kushan</h1>
-<h3 align="center">“Aspiring Full-Stack Developer | C#, .NET, JavaScript Enthusiast | Building the Future One Line of Code at a Time”</h3>
+<h3 align="center">“Aspiring Full-Stack Developer | Spring boot, C# | Building the Future One Line of Code at a Time”</h3>
 
 <p align="center"> <a href="https://twitter.com/zazi_7_" target="blank"><img src="https://img.shields.io/twitter/follow/zazi_7_?logo=twitter&style=for-the-badge" alt="zazi_7_" /></a> </p>
 
