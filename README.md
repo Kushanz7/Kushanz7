@@ -10,8 +10,6 @@
 
 ---
 
-### Nice to Meet You
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C, C# & Java**
@@ -26,7 +24,7 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushanz7&show_icons=true&theme=holi&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushanz7&show_icons=true&theme=holi&hide_title=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushanz7&layout=compact&theme=holi)
 
 </div>
@@ -63,15 +61,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-
-
 </div>
   
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kushan7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kushan7" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p align="center"> <a href="https://www.buymeacoffee.com/kushan7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kushan7" /></a></p><br>
 
 
