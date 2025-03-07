@@ -76,11 +76,3 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 </div>
-  
-
-
-
-<h3 align="center">Support:</h3>
-<p align="center"> <a href="https://www.buymeacoffee.com/kushan7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kushan7" /></a></p><br>
-
-
