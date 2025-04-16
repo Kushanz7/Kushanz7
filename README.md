@@ -73,5 +73,4 @@
     <img src="https://skillicons.dev/icons?i=c,cs,java,spring,react,js,python,html,css,mysql,sqlite,nodejs,linux,git,illustrator,photoshop,ae,idea,discord,postman,vscode,docker,visualstudio,eclipse" />
   </a>
 </p>
-
 </div>
