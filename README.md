@@ -5,7 +5,9 @@
 <h1 align="center">Hi , I'm Kushan Rathnayake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🚀Aspiring Full-Stack Developer | Spring boot, React | Building the Future One Line of Code at a Time</h1>
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kushanz7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <p align="center"> <a href="https://twitter.com/zazi_7_" target="blank"><img src="https://img.shields.io/twitter/follow/zazi_7_?logo=twitter&style=for-the-badge" alt="zazi_7_" /></a> </p>
 
 ---
