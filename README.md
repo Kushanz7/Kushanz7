@@ -57,9 +57,9 @@
   <a href="https://discordapp.com/users/zazi_7." target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  <a href="https://www.leetcode.com/kushan7/" target="blank">
+<!--   <a href="https://www.leetcode.com/kushan7/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="50" width="50" />
-  </a>
+  </a> -->
 </p>
 
 </div>
