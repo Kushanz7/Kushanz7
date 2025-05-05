@@ -3,7 +3,7 @@
 <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
 
 <h1 align="center">Hi , I'm Kushan Rathnayake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🚀Aspiring Full-Stack Developer | Spring boot, React | Building the Future One Line of Code at a Time</h1>
+<h3 align="center">🚀Full-Stack Developer (Spring Boot & React) | Driven by AI/ML | Building the Future Through Innovative Code</h1>
 </div>
 
 <p align="center"> <a href="https://twitter.com/zazi_7_" target="blank"><img src="https://img.shields.io/twitter/follow/zazi_7_?logo=twitter&style=for-the-badge" alt="zazi_7_" /></a> </p>
