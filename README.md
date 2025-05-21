@@ -32,12 +32,11 @@
   <img src="https://komarev.com/ghpvc/?username=Kushanz7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kushan7&theme=blueberry&row=1&column=7&margin-h=15&margin-w=5&no-bg=false&title=-Reviews,-PullRequest,-Issues" alt="TROPHY" />
+<div align="center">
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kushanz7&theme=blueberry&row=1&column=7&margin-h=15&margin-w=5&no-bg=false&title=-Reviews,-PullRequest,-Issues" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
 
 ---
 <div align="center">
