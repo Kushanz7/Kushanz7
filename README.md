@@ -26,7 +26,7 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushanz7&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushanz7&show_icons=true&theme=synthwave&hide_title=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushanz7&layout=compact&theme=blueberry) <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kushanz7&theme=blueberry)
 
