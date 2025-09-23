@@ -27,8 +27,8 @@
 ### My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushanz7&show_icons=true&theme=synthwave&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushanz7&layout=compact&theme=highcontrast) <br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kushanz7&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushanz7&layout=compact&theme=synthwave) <br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kushanz7&theme=synthwave)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kushanz7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -36,7 +36,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kushanz7&theme=blueberry&row=1&column=7&margin-h=15&margin-w=5&no-bg=false&title=-Reviews,-PullRequest,-Issues" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kushanz7&theme=synthwave&row=1&column=7&margin-h=15&margin-w=5&no-bg=false&title=-Reviews,-PullRequest,-Issues" alt="TROPHY" />
     </a>
 </div>
 
