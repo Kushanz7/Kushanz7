@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C, C# & Java**
 
-- 🌐 Website **https://www.kushan.click/**
+- 🌐 Website **https://kushan.vercel.app/**
 
 - 📫 How to reach me **kushansr7@gmail.com**
 
