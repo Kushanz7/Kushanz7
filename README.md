@@ -10,7 +10,7 @@
 
 ---
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **AI & ML**
 
 - 💬 Ask me about **C, C# & Java**
 
